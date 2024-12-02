@@ -1,0 +1,31 @@
+h1 {
+    color: red
+}
+
+h2 {
+    text-align: right;
+}
+
+p span {
+    color: aqua;
+}
+
+.autor {
+    background-color: rgba(245, 2, 2, 0.844);
+}
+
+#boton-confirmar {
+    font-size: 20px;
+}
+
+#caja {
+    height: 100px;
+    width: 100px;
+    background-color: #45DE23;
+    border-radius: 100px;
+    border: 1px solid black;
+    
+}
+#caja:hover {
+    cursor: pointer;
+}
